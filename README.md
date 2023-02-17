@@ -7,7 +7,7 @@
 
 [Resume](https://drive.google.com/file/d/1-vaw13TMY1dH8wVvfLcfzkn__dH9GppL/view?usp=share_link)
 
-- 👀 I’m experienced in working with FastAPI, Python, Docker, MongoDB, React.js, Javascript, Apache Kafka
+- 👀 I’m experienced in working with FastAPI, Python, Angular, Angular material, Docker, MongoDB, React.js, Javascript, Apache Kafka
 - 🌱 I’m currently learning System Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: [<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="30px" alt="facebook"/> ](https://www.facebook.com/profile.php?id=manish113) 
